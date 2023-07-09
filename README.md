@@ -1,5 +1,6 @@
 # veracode-baseline-file-mitigated-flaws
 Python script example to create a Biselife file for pipelineScan with mitigated flaws
+This is not an official Veracode project.
 
 # Setup
 Download Pipeline Scan Tool Version 23.6.0-0
